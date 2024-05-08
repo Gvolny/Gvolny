@@ -9,4 +9,4 @@
 
 - :tea: I like FastAPI and scraping.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Aller_Fl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pythonbackender)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@pythonbackender-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pythonbackender)
