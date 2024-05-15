@@ -5,8 +5,8 @@
 :man_technologist: About Me :
 
 - :mag_right: I’m looking for a Backend Developer job.
-<!-- - :mortar_board: I have 3+ years experience in JS (React / Redux / TypeScript)  -->
+<!-- - :mortar_board: I have 3+ years experience in Python (FastAPI / Reddis)  -->
 
-- :tea: I like FastAPI and scraping.
+- :gem: I like FastAPI, Scraping and Data visualization.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@pythonbackender-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pythonbackender)
