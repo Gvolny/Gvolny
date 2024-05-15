@@ -9,4 +9,4 @@
 
 - :gem: I like FastAPI, Scraping and Data visualization.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@pythonbackender-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pythonbackender)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@pythonbackender-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pythonbackender)
